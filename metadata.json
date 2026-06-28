@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Cybersecurity Agent Platform",
+  "description": "A tutorial, playground, and codebase builder for running an autonomous multi-agent cybersecurity team using Ollama and Hermes Agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
